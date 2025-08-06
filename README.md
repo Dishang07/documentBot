@@ -44,7 +44,7 @@ A powerful AI-powered document question-answering system that automatically proc
 
 2. **Install dependencies**
    ```bash
-   pip install -r requirements.txt
+   pip install -r rag-gemini-pdf/requirements.txt
    ```
 
 3. **Set up environment variables**
