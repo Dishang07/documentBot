@@ -1,0 +1,9 @@
+python-dotenv
+qdrant-client
+openai
+google-generativeai
+PyMuPDF
+python-pptx
+python-docx
+tiktoken
+streamlit
